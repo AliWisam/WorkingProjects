@@ -1,0 +1,14 @@
+
+npm start
+web 3
+> npm install --save web3@1.0.0-beta.26
+metamask>
+thumb immense ancient olympic salt garage vanish emotion depth solid initial belt  
+
+metamask Acounts> //without changing in web3.js file
+ window.ethereum.enable()
+  .then(web3.eth.getAccounts()
+    .then(console.log));
+
+>with making changes in web3.js file
+web3.eth.getAccounts().then(console.log);
